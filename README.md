@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Neeraj Gagat
 
-<!--
-**Neeraj-gagat/Neeraj-gagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | Web Engineer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+I’m a developer who loves building scalable web applications and learning new technologies.  
+Currently focused on **frontend + backend engineering** and improving problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Working with **JavaScript, TypeScript, React, Next.js**
+- 🛠 Backend experience with **Node.js, Express, Prisma**
+- 🌱 Learning **System Design, Web3 & Cloud**
+- 🧩 Interested in **Open Source Contributions**
+- 🎯 Goal: Write clean, maintainable, production-ready code
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React, Next.js
+- Tailwind CSS
+- HTML, CSS, JavaScript, TypeScript
+
+### Backend
+- Node.js, Express
+- REST APIs
+- Prisma, MongoDB, PostgreSQL
+
+### Tools & Others
+- Git & GitHub
+- Docker (Basics)
+- Linux (Ubuntu)
+
+---
+
+## 📊 GitHub Stats
+![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeraj-gagat&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=neeraj-gagat&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/neeraj-gagat
+- LinkedIn: https://linkedin.com/in/your-link
+- Twitter (X): https://x.com/your-handle
+
+---
+
+⭐️ *Thanks for visiting my profile!*
