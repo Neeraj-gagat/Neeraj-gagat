@@ -48,8 +48,7 @@ Currently focused on **frontend + backend engineering** and improving problem-so
 ## 📫 Connect With Me
 - GitHub: https://github.com/neeraj-gagat
 - LinkedIn: https://linkedin.com/in/your-link
-- Twitter (X): https://x.com/your-handle
-
+- Twitter (X): https://x.com/neeraj_tw
 ---
 
 ⭐️ *Thanks for visiting my profile!*
