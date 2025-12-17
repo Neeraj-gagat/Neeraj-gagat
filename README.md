@@ -46,8 +46,7 @@ Currently focused on **frontend + backend engineering** and improving problem-so
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/neeraj-gagat
-- LinkedIn: https://linkedin.com/in/your-link
+- Portfolio: https://neerajgagat.com
 - Twitter (X): https://x.com/neeraj_tw
 ---
 
