@@ -1,53 +1,41 @@
 # Hi 👋, I'm Neeraj Gagat
 
-🚀 Software Developer | Web Engineer | Open Source Enthusiast
+**Software Developer | Web Engineer | Open Source Contributor**
 
-I’m a developer who loves building scalable web applications and learning new technologies.  
-Currently focused on **frontend + backend engineering** and improving problem-solving skills.
+I build scalable web applications and enjoy working across the frontend and backend.  
+Currently focused on **modern web engineering, system design, and Web3**.
 
 ---
 
 ## 🧠 About Me
-- 💻 Working with **JavaScript, TypeScript, React, Next.js**
-- 🛠 Backend experience with **Node.js, Express, Prisma**
-- 🌱 Learning **System Design, Web3 & Cloud**
-- 🧩 Interested in **Open Source Contributions**
-- 🎯 Goal: Write clean, maintainable, production-ready code
+- ⚛️ React, Next.js, TypeScript
+- 🧩 Backend with Node.js, Express, Prisma
+- 🗄️ MongoDB, PostgreSQL
+- 🌱 Learning **Web3 (Solana)** and **Rust**
+- 🚀 Actively contributing to open source
 
 ---
 
 ## 🛠 Tech Stack
-
-### Frontend
-- React, Next.js
-- Tailwind CSS
-- HTML, CSS, JavaScript, TypeScript
-
-### Backend
-- Node.js, Express
-- REST APIs
-- Prisma, MongoDB, PostgreSQL
-
-### Tools & Others
-- Git & GitHub
-- Docker (Basics)
-- Linux (Ubuntu)
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, Prisma  
+**Databases:** MongoDB, PostgreSQL  
+**Tools:** Git, GitHub, Docker (Basics), Linux (Ubuntu)
 
 ---
 
 ## 📊 GitHub Stats
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeraj-gagat&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeraj-gagat&show_icons=true&theme=radical)](https://github.com/neeraj-gagat)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=neeraj-gagat&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neeraj-gagat&theme=radical)](https://github.com/neeraj-gagat)
 
 ---
 
 ## 📫 Connect With Me
-- Portfolio: https://neerajgagat.com
-- Twitter (X): https://x.com/neeraj_tw
----
+- 🌐 Portfolio: https://neerajgagat.com  
+- 🐦 Twitter (X): https://x.com/neeraj_tw  
 
 ⭐️ *Thanks for visiting my profile!*
