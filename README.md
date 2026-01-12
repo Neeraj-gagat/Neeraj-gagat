@@ -24,16 +24,6 @@ Currently focused on **modern web engineering, system design, and Web3**.
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeraj-gagat&show_icons=true&theme=radical)](https://github.com/neeraj-gagat)
-
----
-
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=neeraj-gagat&theme=radical)](https://github.com/neeraj-gagat)
-
----
-
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://neerajgagat.com  
 - 🐦 Twitter (X): https://x.com/neeraj_tw  
