@@ -63,12 +63,12 @@ I build **scalable web applications** and enjoy working across the full stack—
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-gagat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-gagat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-gagat&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Neeraj-gagat&theme=radical&hide_border=false" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-gagat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-gagat&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -76,7 +76,7 @@ I build **scalable web applications** and enjoy working across the full stack—
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj-gagat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj-gagat&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -109,6 +109,6 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 *Feel free to explore my repositories and don't hesitate to reach out!*
 
-![Snake animation](https://github.com/Neeraj-gagat/Neeraj-gagat/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
