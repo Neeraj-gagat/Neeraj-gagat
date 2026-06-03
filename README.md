@@ -34,6 +34,26 @@ I build **scalable web applications** and enjoy working across the full stack—
 
 ---
 
+## 🌟 Open Source Contributions
+
+CCExtractor / CCSync (Taskwarrior III)
+
+Active contributor to the CCExtractor organization,primarily working on the CCSync (Taskwarrior III) project.
+
+- 🚀 Contributed to frontend development, feature implementation, bug fixes, and overall user experience improvements
+- 🔧 Worked with React, TypeScript, and modern web technologies to enhance the platform
+- 🤝 Collaborated with maintainers and contributors through pull requests, code reviews, and issue discussions
+- 📈 Contributed across multiple areas of the project, including development, testing, and documentation
+
+Contribution Highlights
+
+- ✅ 27 merged pull requests
+- ✅ 80+ total contributions to CCExtractor projects
+- ✅ Active contributor to CCSync (Taskwarrior III)
+- ✅ Google Summer of Code (GSoC) applicant with CCExtractor
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
